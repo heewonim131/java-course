@@ -17,4 +17,4 @@
 8. [자바를 활용한 알고리즘 문제](https://github.com/heewonim131/lecture-evaluation/tree/main/Chapter8)
 
 ## 강의자료 출처
-[easyspubjava]https://gitlab.com/easyspubjava/javacoursework
+[easyspubjava](https://gitlab.com/easyspubjava/javacoursework)
