@@ -59,6 +59,6 @@
     JVM(Java Virtual Machine) : 자바 가상 머신으로 프로그램이 실행되는 환경인 JRE 가 설치되어 있어야 함
 
 ## 다음 강의
-[02. 자바와 이클립스 설치하기](https://gitlab.com/easyspubjava/javacoursework/-/tree/master/Chapter1/01-02/README.md)
+[02. 자바와 이클립스 설치하기](https://github.com/heewonim131/java-course/tree/main/Chapter1/01-02/README.md)
 
     

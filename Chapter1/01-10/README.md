@@ -91,6 +91,6 @@ public class TypeConversion {
 ```
 
 ## 다음 강의
-[11.자바의 연산자들 -1 (대입, 부호, 산술, 복합대입, 증감연산자)](https://gitlab.com/easyspubjava/javacoursework/-/blob/master/Chapter1/01-11/README.md)
+[11.자바의 연산자들 -1 (대입, 부호, 산술, 복합대입, 증감연산자)](https://github.com/heewonim131/java-course/tree/main/Chapter1/01-11/README.md)
 
 

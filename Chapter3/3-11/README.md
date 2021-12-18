@@ -111,4 +111,4 @@ Calc calc = new CompleteCalc();
 ![type](./img/type.png)
 
 ## 다음 강의
-[12. 인터페이스는 왜 쓰는가?](https://gitlab.com/easyspubjava/javacoursework/-/blob/master/Chapter3/3-12/README.md)
+[12. 인터페이스는 왜 쓰는가?](https://github.com/heewonim131/java-course/tree/main/Chapter3/3-12/README.md)

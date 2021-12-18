@@ -15,7 +15,7 @@
 - 예) JDBC 인터페이스
 
 ## 다음 강의
-[13. 인터페이스를 활용한 다형성 구현](https://gitlab.com/easyspubjava/javacoursework/-/blob/master/Chapter3/3-13/README.md)
+[13. 인터페이스를 활용한 다형성 구현](https://github.com/heewonim131/java-course/tree/main/Chapter3/3-13/README.md)
 
 
 

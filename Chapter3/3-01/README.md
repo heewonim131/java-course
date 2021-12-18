@@ -34,4 +34,4 @@ class B extends A{
 ![inheritance2](./img/inheritance2.png)
 
 ## 다음 강의
-[02. 상속을 활용한 멤버십 클래스 구현하기](https://gitlab.com/easyspubjava/javacoursework/-/blob/master/Chapter3/3-02/README.md)
+[02. 상속을 활용한 멤버십 클래스 구현하기](https://github.com/heewonim131/java-course/tree/main/Chapter3/3-02/README.md)

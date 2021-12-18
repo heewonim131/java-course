@@ -321,5 +321,5 @@ public class BookShelfTest {
 
 ## 다음 강의
 
-[16. 복습해보세요](https://gitlab.com/easyspubjava/javacoursework/-/blob/master/Chapter3/3-16/README.md)
+[16. 복습해보세요](https://github.com/heewonim131/java-course/tree/main/Chapter3/3-16/README.md)
 

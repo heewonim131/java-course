@@ -136,7 +136,7 @@ public class UsingDefine {
 ```
 
 ## 다음 강의
-[11. 인터페이스(interface)](https://gitlab.com/easyspubjava/javacoursework/-/blob/master/Chapter3/3-11/README.md)
+[11. 인터페이스(interface)](https://github.com/heewonim131/java-course/tree/main/Chapter3/3-11/README.md)
 
 
 

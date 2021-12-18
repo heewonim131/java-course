@@ -92,4 +92,4 @@ public class FunctionTest {
 
 ## 다음 강의 
 
-[04. 객체의 속성은 멤버 변수로, 객체의 기능은 메서드로 구현한다](https://gitlab.com/easyspubjava/javacoursework/-/blob/master/Chapter2/2-04/README.md)
+[04. 객체의 속성은 멤버 변수로, 객체의 기능은 메서드로 구현한다](https://github.com/heewonim131/java-course/tree/main/Chapter2/2-04/README.md)

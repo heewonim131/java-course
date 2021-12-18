@@ -159,7 +159,7 @@ DBTYPE=ORACLE
 ![mysql](./img/oracle.png)
 
 ## 다음 강의
-[14. 인터페이스의 여러가지 요소](https://gitlab.com/easyspubjava/javacoursework/-/blob/master/Chapter3/3-14/README.md)
+[14. 인터페이스의 여러가지 요소](https://github.com/heewonim131/java-course/tree/main/Chapter3/3-14/README.md)
 
 
 

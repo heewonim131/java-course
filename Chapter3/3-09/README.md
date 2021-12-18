@@ -107,5 +107,5 @@ public class ComputerTest {
 ```
 
 ## 다음 강의
-[10. 추상 클래스의 응용 - 템플릿 메서드 패턴](https://gitlab.com/easyspubjava/javacoursework/-/blob/master/Chapter3/3-10/README.md)
+[10. 추상 클래스의 응용 - 템플릿 메서드 패턴](https://github.com/heewonim131/java-course/tree/main/Chapter3/3-10/README.md)
 

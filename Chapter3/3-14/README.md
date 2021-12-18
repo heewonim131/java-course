@@ -71,4 +71,4 @@ private static void mystaticMethod() {
 ```
 
 ## 다음 강의
-[15. 여러 인터페이스 구현하기, 인터페이스의 상속](https://gitlab.com/easyspubjava/javacoursework/-/blob/master/Chapter3/3-15/README.md)
+[15. 여러 인터페이스 구현하기, 인터페이스의 상속](https://github.com/heewonim131/java-course/tree/main/Chapter3/3-15/README.md)

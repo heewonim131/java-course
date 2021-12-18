@@ -82,4 +82,4 @@ public class BitTest {
 ![priority](./img/priority.png)
 
 ## 다음 강의
-[14. 조건문 - if 문(만약에... 라면)](https://gitlab.com/easyspubjava/javacoursework/-/blob/master/Chapter1/01-14/README.md)
+[14. 조건문 - if 문(만약에... 라면)](https://github.com/heewonim131/java-course/tree/main/Chapter1/01-14/README.md)

@@ -181,4 +181,4 @@ public class ObjectCopy2 {
 ![deep](./img/deep.PNG)
 
 ## 다음 강의
-[22. 2차원 배열 사용하기](https://gitlab.com/easyspubjava/javacoursework/-/blob/master/Chapter2/2-22/README.md)
+[22. 2차원 배열 사용하기](https://github.com/heewonim131/java-course/tree/main/Chapter2/2-22/README.md)

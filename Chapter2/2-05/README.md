@@ -51,4 +51,4 @@
 
 
 ## 다음 강의
-[06. 생성자에 대해 알아봅시다 (constructor)](https://gitlab.com/easyspubjava/javacoursework/-/blob/master/Chapter2/2-06/README.md)
+[06. 생성자에 대해 알아봅시다 (constructor)](https://github.com/heewonim131/java-course/tree/main/Chapter2/2-06/README.md)

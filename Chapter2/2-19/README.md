@@ -22,4 +22,4 @@ public class CarFactoryTest {
 }
 ```
 ## 다음 강의
-[20. 자료를 순차적으로 한꺼번에 관리하는 방법 - 배열(array)](https://gitlab.com/easyspubjava/javacoursework/-/blob/master/Chapter2/2-20/README.md)
+[20. 자료를 순차적으로 한꺼번에 관리하는 방법 - 배열(array)](https://github.com/heewonim131/java-course/tree/main/Chapter2/2-20/README.md)
