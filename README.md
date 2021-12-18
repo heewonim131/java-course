@@ -1,5 +1,4 @@
 # 💻 java-course
-[[ java-programming ] 프로그래밍 예제](https://github.com/heewonim131/java-programming)
 
 1. [자바 기초](https://github.com/heewonim131/java-course/tree/main/Chapter1)
 
@@ -16,6 +15,9 @@
 7. [인터페이스를 활용한 학점 산출 프로그램 만들기](https://github.com/heewonim131/java-course/tree/main/Chapter7)
 
 8. [자바를 활용한 알고리즘 문제](https://github.com/heewonim131/java-course/tree/main/Chapter8)
+
+## ⌨ 프로그래밍 예제
+- [java-programming](https://github.com/heewonim131/java-programming)
 
 ## 🔗 강의자료 출처
 - [easyspubjava님의 GitLab](https://gitlab.com/easyspubjava/javacoursework)
