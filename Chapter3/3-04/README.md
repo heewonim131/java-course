@@ -36,7 +36,7 @@ public int calcPrice(int price) {
 
    vc 변수의 타입은 Customer지만 인스턴스의 타입은 VIPCustomer 임
    
-   자바에서는 항상 인스턴스의 메서드가 호출 됨 (가상메서드의 원리)
+   ❕ **자바에서는 항상 인스턴스의 메서드가 호출 됨 (가상메서드의 원리)**
 
    자바의 모든 메서드는 가상 메서드(virtual method) 임
 
