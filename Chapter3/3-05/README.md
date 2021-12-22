@@ -38,7 +38,7 @@ public class TestMethod {
 
 ## 가상 메서드의 원리
 
-- 가상 메서드 테이블(vitual method table)에서 해당 메서드에 대한 address를 가지고 있음
+- 가상 메서드 테이블(virtual method table)에서 해당 메서드에 대한 address를 가지고 있음
 
 - 재정의된 경우는 재정의 된 메서드의 주소를 가리킴<br>
 ![virtual](./img/virtual.png)<br>
