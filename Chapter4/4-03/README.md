@@ -60,7 +60,7 @@ public class StringTest2 {
 
 - StringBuffer는 멀티 쓰레드 프로그래밍에서 동기화(synchronization)을 보장
 
-- 단인 쓰레드 프로그램에서는 StringBuilder 사용을 권장
+- 단일 쓰레드 프로그램에서는 StringBuilder 사용을 권장
 
 - toString() 메서드로 String반환
 
