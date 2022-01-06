@@ -54,7 +54,7 @@ public class PriorityTest {
 
 - 동시에 두 개 이상의 Thread가 실행 될 때 다른 Thread의 결과를 참조 하여 실행해야 하는 경우 join() 함수를 사용
 
-- join() 함수를 호출한 Thread가 not-runnable 상태가 감
+- join() 함수를 호출한 Thread가 not-runnable 상태가 됨
 
 - 다른 Thread의 수행이 끝나면 runnable 상태로 돌아옴
 
