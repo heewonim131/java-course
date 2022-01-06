@@ -387,7 +387,7 @@ public class GenerateGradeReport {
 
 - 주어진 테이터에 기반하여 Student, Subject, Score 객체를 직접 만들어 각 과목에 따른 학점의 결과가 잘 출력되는지 확인 합니다.
 
-- 모든 학생과 과목을 관리하는 School 체를 만듭니다. 
+- 모든 학생과 과목을 관리하는 School 객체를 만듭니다. 
 
 School.java
 ```
