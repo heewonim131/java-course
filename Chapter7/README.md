@@ -538,8 +538,7 @@ public class Define {
 }
 ```
 
-- GradeEvaluation 인터페이스를 구현한 Pass/Fail BasicEvaluation
-PassFailEvaluation
+- Pass/Fail 과목에 대해 학점 정책을  PassFailEvaluation 클래스
 ```
 public class PassFailEvaluation implements GradeEvaluation{
 
