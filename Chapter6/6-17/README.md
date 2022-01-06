@@ -2,7 +2,7 @@
 
 ## serialization 이란?
 
-- 인스턴스의 상태를 그대로 파일 저장하거나 네트웍으로 전송하고 (serialization) 이를 다시 복원(deserializatio) 하는 방식
+- 인스턴스의 상태를 그대로 파일 저장하거나 네트웍으로 전송하고 (serialization) 이를 다시 복원(deserialization) 하는 방식
 
 - 자바에서는 보조 스트림을 활용하여 직렬화를 제공함
 
